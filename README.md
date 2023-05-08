@@ -103,7 +103,7 @@ Github Page
 ## 👥 Authors <a name="authors"></a>
 
 👤 **Maryam Bakhtawar**
-👤 **Bhekisile Jozi**
+👤 **Geofrey Mwakio**
 
 - GitHub: [@githubhandle](https://github.com/maryam0007)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/maryam-bakhtawar-516603267/)
