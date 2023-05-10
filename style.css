@@ -46,6 +46,7 @@
   padding: 10px;
   border-style: solid;
   border-radius: 3px;
+  background-color: red;
   width: 90vw;
   margin: 5px auto;
 }
@@ -89,9 +90,13 @@ a {
 }
 
 .footer {
-  padding: 10px;
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  align-items: baseline;
   border-style: solid;
   border-radius: 3px;
   width: 90vw;
-  margin: 5px auto;
+  padding: 10px;
+  margin-left: 50px;
 }
